@@ -16,7 +16,7 @@ public class Net {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("teste");
+        System.out.println("teste1");
     }
     
 }
